@@ -1,0 +1,17 @@
+.header-dark {
+    color: black;
+    background-color: white;
+}
+.header-dark a h1 h2 h3 h4 p li {
+    color: black;
+    background-color: white;
+}
+.header-dark .header-nav-link {
+    color: black;
+}
+.header-dark .header-search-input {
+    min-height: 30px;
+    font-size: inherit;
+    color: black;
+    background-color: white;
+}
