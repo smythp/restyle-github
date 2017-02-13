@@ -1,3 +1,17 @@
+.header-nav-link {
+    color: #000000;
+}
+.header-dark .header-nav-link:hover, .header-dark .header-nav-link:focus {
+    color: #000000;
+}
+.header a h1 h2 h3 h4 p li {
+    color: #000000;
+    background-color: #ffffff;
+}
+.header {
+    color: #000000;
+    background-color: #ffffff;
+}
 .header-dark {
     color: black;
     background-color: white;
